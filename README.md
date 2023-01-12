@@ -1,0 +1,1 @@
+This project will be a small website of recipes to practice my html and eventually my css.
